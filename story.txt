@@ -1,3 +1,4 @@
+Weekdays:
 I woke up
 I went back to sleep
 I got my ass dragged out of bed
@@ -16,4 +17,8 @@ I cried
 I slept
 I ate dinner
 I slept more
-Repeat 1-10 forever
+Repeat 1-10 for school days
+Weekends:
+Wake up
+go back to sleep
+repeat for saturday and sunday.
