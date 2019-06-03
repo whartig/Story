@@ -8,3 +8,4 @@ I cried
 I slept
 I ate dinner
 I slept more
+Repeat 1-10 forever
